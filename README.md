@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Richard Haddad
+- 👀 I help businesses connect with and serve their customers by way of design and development (web & software).
+- 🌱 I’m currently learning Python and Machnine Learning.
+- 📫 You can reach by email at hello@higherordermalfunction.com
