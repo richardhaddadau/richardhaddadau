@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Richard Haddad
 - 👀 I help businesses connect with & serve their customers by way of design & development (web & software).
-- 🌱 I’m currently learning Python and Machnine Learning.
+- 💻 The technologies I use are: HTML, CSS, JavaScript, Laravel, React, Python, C#
+- 🌱 I’m currently studying Svelte, Ethical Hacking, Machine Learning.
 - 📫 You can reach by email at hello@higherordermalfunction.com
