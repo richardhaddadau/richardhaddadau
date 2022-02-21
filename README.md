@@ -2,4 +2,4 @@
 - 👀 I help businesses connect with & serve their customers by way of design & development (web & software).
 - 💻 The technologies I use are: HTML, CSS, JavaScript, Laravel, React, Python, C#
 - 🌱 I’m currently studying Svelte, Ethical Hacking, Machine Learning.
-- 📫 You can reach by email at hello@higherordermalfunction.com
+- 📫 You can reach by email at richard@haddads.net.au
